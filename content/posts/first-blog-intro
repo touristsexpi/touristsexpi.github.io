@@ -1,7 +1,11 @@
 ---
 title: Explore the Geospatial World through the lens of Zanzibar
 date: 2023-10-04
-tags: [geospatial, zanzibar]
+tags:
+  - geospatial
+social_image: /media/rocket.jpg
+description: This is a custom description for SEO and Open Graph purposes. If
+  it's not provided, it defaults to auto-generated excerpts of the page content.
 ---
 
 # Introduction
