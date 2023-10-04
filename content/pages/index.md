@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "ImuTechTrek"
 ---
 
-# Hello World
+# ImuTechTrek
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Your window to the Tech and Geospatial world. Join me on a journey through the digital landscape, where code meets maps.
