@@ -31,6 +31,24 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: [
+          "G-YMX4ZKS09Y", // GA Measurement
+        ],
+        gtagConfig: {
+          optimize_id: 'OPT_CONTAINER_ID',
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
+        pluginConfig: {
+          head: true,
+          respectDNT: true,
+          exclude: ["/preview/**", "/do-not-track/me/too/"],
+        },
+      },
+    },
     "gatsby-plugin-use-dark-mode",
     {
       resolve: "gatsby-source-filesystem",
