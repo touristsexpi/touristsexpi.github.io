@@ -7,7 +7,7 @@ module.exports = {
     },
     openGraphImage: `open-graph-image.png`,
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://touristsexpi.github.io`,
+    siteUrl: `https://imutechtrek.dev`,
     social: {
       twitter: `yinkakun`,
     },
